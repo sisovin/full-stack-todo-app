@@ -1,0 +1,5 @@
+flet==0.1.0
+sqlite3==2.6.0
+pyjwt==2.1.0
+argon2-cffi==20.1.0
+redis==3.5.3
