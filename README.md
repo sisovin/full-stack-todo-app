@@ -1,2 +1,1 @@
-# full-stack-todo-app
-A repository for a to-do application with Flet UI and SQLite3 backend
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
